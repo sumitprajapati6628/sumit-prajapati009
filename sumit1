@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>html program</title>
+</head>
+<body>
+<h1>resume</h1>
+<h1>posnal details</h1>
+<p>
+Name:Sumit Prajapati
+<br>
+Age:19
+<br>
+Address:Shri dada ji ward khandwa 
+<br>
+Mobile.No.:9926496239
+<br>
+Email id : sumitprajapati58043@gmail.com
+<br>
+<h2>Qualification</h2>
+<p>
+School name:Janta higher secondery 
+<br>
+12th parcentage:74%
+<br>
+10th parcentage:84%
+<br>
+Collage Name:SDITS Khandwa 
+<br>
+Branch:CSE
+<br>
+(Current 2<sup>nd</sup> Year)
+<br>
+
+<h3>Skill</h3>
+<p>
+*Problem solving
+<br>
+ 
+<del>*Teamwork</del><ins>self work</ins>
+<br>
+*Communication
+<br>
+
+<h4>laguages</h4>
+*c
+<br>
+*c++
+<br>
+*java script
+<br>
+
+</body>
+
+
+
+</html>

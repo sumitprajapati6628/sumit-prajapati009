@@ -1,0 +1,90 @@
+*{
+	margin:0;
+}
+.p1{
+	display: flex;
+	background-color: none;
+	color: black;
+}
+.p1#i1{
+	padding: 30px;
+
+	}
+header{
+	display: flex;
+	justify-content: space-between;
+}
+input{
+	margin-top: 20px;
+	padding: 5px 80px;
+	border-radius: 15px;
+
+}
+.icon{
+	display: flex;
+	margin-top: 20px;
+	margin-right: 50px;
+
+}
+.i12{
+	margin: 0px 10px;
+}
+.home{
+	text-decoration:none;
+	padding: 0px 50px;
+
+}
+.nav{
+	display: flex;
+	flex-direction: column;
+	width:100%;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+.nav-link{
+	display: flex;
+	align-items: center;
+	padding: 12px 25px;
+}
+.nav-link span{
+	margin-left: 10px;
+}
+aside{
+	height: 100vh;
+	width: 180px;
+	overflow-x:auto;
+}
+main{
+	display: flex;
+}
+aside a:hover{
+transform: translateX(30px);
+transition: all;
+}
+.fun{
+	background-color:#ccc;
+	color: black;
+	padding: 7px 12px;
+	border-radius: 10px;
+
+	align-items: center;
+	flex-direction: row;
+
+	text-decoration:none;
+	margin-left: 10px;
+}
+#active{
+	background-color: black;
+	color: white;
+}
+section{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top:20px;
+    margin-left: 20px;
+}
+.pawan{
+	display: grid;
+	grid-gap: 10px;
+}

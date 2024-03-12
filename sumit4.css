@@ -1,0 +1,11 @@
+div{
+  margin: 100px;
+  padding: 100px;
+  background-color: red;
+  width: 100px;
+  border:dashed black;
+
+border-radius: 500px;
+box-shadow:20px 20px;
+ 
+ }

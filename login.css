@@ -1,0 +1,64 @@
+ 
+.login{
+	display: flex;
+justify-content: center;
+align-items: center;
+ border:1px solid gray;
+	 width:300px;
+	 height: 400px;
+	 
+background-color: white;
+	 
+	 background-attachment: cover;
+}
+form{
+	display: flex;
+	align-items: center; 
+	flex-direction:column;
+	box-shadow: 0px 0px 0px 20px rgba(0 0 0 0.75);
+}
+button{
+	padding: 5px 70px;
+	background-color:blue;
+	color:white;
+	border-radius: 20px;
+	border-color:blue;
+	margin-left: 5px;
+}
+#ip,#ip1{
+	margin-left: 10px;
+	padding: 5px 30px;
+	border-radius: 5px;
+border:1px thin gray;
+}
+ 
+a{
+	text-decoration: none;
+
+}
+body{
+	display: flex;
+	justify-content: center;
+	margin-top: 60px;
+}
+#fp{
+	margin-right: : 100px;
+	margin-bottom: 50px;
+}
+#h1{
+	font-size: 45pt;
+}
+.second{
+	display: flex;
+	 
+	width: 300px;
+	height: 50px;
+	border:4px thin gray;
+}
+section{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-top: 450px;
+	margin-right:300px;
+}

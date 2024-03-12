@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+}
+.login{
+	display: flex;
+	justify-content: center;
+	border: solid thin black;
+	width: 200px;
+	height:300px;
+
+
+
+
+}
+ form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction:column;
+
+}
+
+button  {
+	padding: 5px 70px;
+	background-color: blue;
+	justify-content: center;
+	color: white;
+	border-radius: 20px;
+	border-color: blue;
+	margin-left: 5px;
+}
+#ip{
+	margin-left: 10px;
+
+}
+#ip1{
+	margin-left: 10px;
+
+}
+a{
+	text-decoration: none;
+
+}
+body{
+	display: flex;
+	justify-content: center;
+	margin-top: 60px;
+	border:solid thin black;
+
+}
+#ipl{
+	justify-content: center;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
+#h1{
+	font-size:30pt;
+}
+
