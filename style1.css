@@ -120,11 +120,23 @@ footer{
  	font-size: 35pt;
  	
  }
- .sem{
+ .cen{
  	display: flex;
  	align-items: center;
  }
- 
+.sta{
+	display: flex;
+	align-items: center;
+
+}.ab{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+    background-color: blue;
+    width: 80px;
+    
+
+} 
 
  
 
