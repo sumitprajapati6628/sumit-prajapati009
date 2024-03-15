@@ -1,12 +1,6 @@
 <html>
   <head>
     <title>portfolio</title>
-<style>
-h1{
-color:"green";
-background-color:"blue";
-}
-</style>
    </head>
       <body>
        <div="header">
